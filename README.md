@@ -2,8 +2,10 @@
 
 ---
 
-**ARCHIVED CUZ I DON'T WORK ON FNF STUFF ANYMORE**<br>
-If you would like to continue the project you have my permission, just make sure I am credited properly.
+**PLEASE DO NOT SEND ME MESSAGES ON SOCIAL MEDIA ABOUT THIS PROJECT.**
+
+I have not touched GMS2 in like 4 years and have no idea how any of this code works anymore.<br>
+Please do not use this remake, ESPECIALLY not for learning purposes. It sucks.
 
 ---
 
@@ -34,7 +36,7 @@ If you **need** to talk to me directly, I can be contacted on **[Twitter](https:
 #### Remake Help
 
 - [codst](https://twitter.com/ImCodist) - it me lol
-- [Yoshubs](https://twitter.com/Yoshubs) - Programming Help
+- Yoshubs **(Important Note: I do not condone any of Yoshubs' actions and it is a personal nightmare of mine that people may assume that I do. She is dead to me.)** - Programming Help
 
 #### Orignal Game Creators
 
